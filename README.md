@@ -1,4 +1,3 @@
-![Uploading Banner web black Friday 2022 elegante negro.jpg…]()
 
  
  
