@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on ... Youtube
 - 🤔 I’m looking for help with ... Adrian marcelo
 - 💬 Ask me about ... El ff
-- 📫 How to reach me: ... En una suburban
+- 📫 How to reach me: ... En una Suburban
 - 😄 Pronouns: ... El 10
 - ⚡ Fun fact: ... los bebes mueren por falta de amor
 
