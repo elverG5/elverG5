@@ -1,4 +1,3 @@
-https://img.shields.io/badge/https%3A%2F%2Fwww.facebook.com%2Fprofile.php%3Fid%3D100037486610206%26mibextid%3DZbWKwL
 
  
  
