@@ -1,5 +1,4 @@
-
-![Banner](https://github.com/elverG5/elverG5/raw/main/victor.png)
+(https://github.com/tu_usuario/tu_usuario/raw/main/victor.png)
  
  
  
