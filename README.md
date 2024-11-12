@@ -1,6 +1,7 @@
+<div aling=cente>
+</div>div>
+<img src="banner.png">
 
- <a href="https://facebook.com/Victor Gonzalez" target="_blank">
-    <i class="fab fa-facebook"></i> Facebook </a>
  
   <a href="https://instagram.com/vglz_7" target="_blank">
     <i class="fab fa-instagram"></i> Instagram <span>(2500 seguidores)</span>
