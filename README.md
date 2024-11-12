@@ -3,10 +3,7 @@
 <img src="banner.png.jpg" width="100%" height="450px">
 
  
-  <a href="https://instagram.com/vglz_7" target="_blank">
-    <i class="fab fa-instagram"></i> Instagram <span>(2500 seguidores)</span>
-  </a>
- 
+
 ##Sobre Mi
  
 
