@@ -1,5 +1,5 @@
 <div aling="center">
-</div>div>
+</div>
 <img src="banner.png">
 
  
