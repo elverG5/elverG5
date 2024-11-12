@@ -1,4 +1,4 @@
-<div aling=cente>
+<div aling="center">
 </div>div>
 <img src="banner.png">
 
