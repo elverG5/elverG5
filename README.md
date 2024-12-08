@@ -1,6 +1,4 @@
-<div aling="center">
-</div>
-<img src="banner.png.jpg" width="100%" height="450px">
+
 
  
 
